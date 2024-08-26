@@ -1,0 +1,10 @@
+_pycache_/
+
+*.pyc
+venv/
+
+# Logs
+*.log
+
+# Test cache and results
+.pytest_cache/
